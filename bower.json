@@ -1,0 +1,28 @@
+{
+  "name": "bloodblowl",
+  "version": "0.0.0",
+  "authors": [
+    "Jani Perttunen <jani.perttunen@gmail.com>"
+  ],
+  "description": "Bloodbowl roster",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "toaster": "~0.4.8",
+    "angular": "~1.3.3",
+    "angular-resource": "~1.3.3",
+    "angular-route": "~1.3.3"
+  }
+}
